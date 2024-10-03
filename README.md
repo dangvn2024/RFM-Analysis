@@ -1,6 +1,7 @@
 # RFM-Analysis
 Utilize the RFM model created with Python to segment customers and propose appropriate marketing campaigns.
 Link: https://colab.research.google.com/drive/1p9g7QV61Xasod2L_pjFsMdJgX7AcJiPv
+For Overview, please check Presentation 
 
 
 ## I. Introduction
